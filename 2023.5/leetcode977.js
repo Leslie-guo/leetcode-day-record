@@ -12,3 +12,5 @@ var sortedSquares = function(nums) {
     }
     return result;
 };
+
+console.log(parseInt(0x55AA,10))
